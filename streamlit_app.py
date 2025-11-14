@@ -5,7 +5,7 @@ import pandas as pd
 
 # --- 1. 페이지 기본 설정 ---
 st.set_page_config(
-    page_title="Streamlit 마법 교실",
+    page_title="Streamlit 최원민",
     page_icon="🔮",
     layout="wide"
 )
